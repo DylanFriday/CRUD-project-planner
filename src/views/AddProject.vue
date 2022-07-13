@@ -82,4 +82,7 @@ export default {
     border-radius: 6px;
     font-size: 16px;
   }
+form button:hover{
+    background-color: aquamarine;
+}
 </style>

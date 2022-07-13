@@ -2,14 +2,14 @@
   "projects": [
     {
       "id": 3,
-      "title": "project title 3",
-      "detail": "project detail 3",
+      "title": "project title 2 upadate",
+      "detail": "project detail 2 detail",
       "complete": false
     },
     {
       "id": 4,
-      "title": "project title 4",
-      "detail": "project detail 4",
+      "title": "project title 4da",
+      "detail": "project detail 4 da",
       "complete": false
     }
   ]
