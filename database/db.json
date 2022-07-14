@@ -3,7 +3,7 @@
     {
       "title": "new todo1",
       "detail": "take bath",
-      "complete": false,
+      "complete": true,
       "id": 1
     },
     {
