@@ -1,16 +1,16 @@
 {
   "projects": [
     {
-      "id": 3,
-      "title": "project title 2 ",
-      "detail": "project detail 2 detail",
-      "complete": false
+      "title": "new todo1",
+      "detail": "take bath",
+      "complete": false,
+      "id": 1
     },
     {
-      "id": 4,
-      "title": "project title 4da",
-      "detail": "project detail 4 da",
-      "complete": false
+      "title": "todo 2",
+      "detail": "study vue js",
+      "complete": false,
+      "id": 2
     }
   ]
 }

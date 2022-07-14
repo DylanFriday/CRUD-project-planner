@@ -22,7 +22,7 @@
     </div>
 
     <div v-if="opendetail">
-        <p>{{project.complete}}</p>
+        <p style="color: green">{{project.detail}}</p>
     </div>
    
   </div>
